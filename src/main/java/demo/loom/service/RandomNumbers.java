@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021 Ivelin Yanev
+ * Copyright (C) 2022 Ivelin Yanev
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@ import java.util.Random;
 /**
  * 
  * @author Ivelin Yanev <bgfortran@gmail.com>
- * @since 11.01.2021
+ * @since 11.01.2022
  *
  */
 public class RandomNumbers implements Runnable {
